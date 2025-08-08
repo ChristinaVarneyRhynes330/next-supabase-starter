@@ -69,3 +69,7 @@ next-supabase-starter/
 ## Notes
 - This starter **does not** require any paid services.
 - If env vars are missing, the homepage will tell you exactly what to set.
+
+
+![CI](https://github.com/ChristinaVarneyRhynes330/next-supabase-starter/actions/workflows/ci.yml/badge.svg)
+
